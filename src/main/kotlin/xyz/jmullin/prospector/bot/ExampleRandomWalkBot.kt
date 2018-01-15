@@ -5,7 +5,7 @@ import xyz.jmullin.prospector.game.Probe
 import xyz.jmullin.prospector.game.ProspectorBot
 import java.util.*
 
-class RandomWalkBot : ProspectorBot {
+class ExampleRandomWalkBot : ProspectorBot {
     private val rand = Random()
 
     override val name: String
